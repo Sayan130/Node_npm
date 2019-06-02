@@ -1,0 +1,24 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sayan130/Node_npm.git"
+  },
+  "author": "Sayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sayan130/Node_npm/issues"
+  },
+  "homepage": "https://github.com/Sayan130/Node_npm#readme",
+  "dependencies": {
+    "nodemailer": "^4.7.0",
+    "nodemon": "^1.19.1",
+    "smtp": "^0.1.4"
+  }
+}
