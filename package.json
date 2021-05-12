@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Sayan130/Node_npm#readme",
   "dependencies": {
-    "nodemailer": "^4.7.0",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.19.1",
     "smtp": "^0.1.4"
   }
